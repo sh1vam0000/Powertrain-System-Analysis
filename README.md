@@ -1,4 +1,4 @@
-# eBAJA Powertrain System Analysis
+# Powertrain System Analysis
 
 MATLAB-based analysis of an eBAJA electric vehicle powertrain, covering motor performance, chain-sprocket transmission, gearbox reduction, tyre torque, vehicle speed, tractive force, traction limits, and power consistency.
 
